@@ -2,5 +2,9 @@
   {
     "package": "climasus4r",
     "url": "https://github.com/ByMaxAnjos/climasus4r"
+  },
+  {
+    "package": "LCZ4r",
+    "url": "https://github.com/ByMaxAnjos/LCZ4r"
   }
 ]
